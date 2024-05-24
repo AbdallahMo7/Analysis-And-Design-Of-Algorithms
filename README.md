@@ -1,1 +1,1 @@
-# Analysis-And-Design-Of-Algorithms
+# Quick Sort Algorithm
